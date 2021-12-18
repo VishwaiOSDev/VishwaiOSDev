@@ -3,7 +3,7 @@
 <p><em>Software Engineer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/code__hunter?label=follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/vishwaiosdev?label=follow&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/vishwaiosdev?label=Follow&style=social)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...

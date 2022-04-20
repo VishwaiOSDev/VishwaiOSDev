@@ -11,8 +11,8 @@
 ```javascript
 const techStack = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Swift", "Dart", "C++", "Python", "Java"],
-  askMeAbout: ["Web Dev", "FullStack Dev", "App Dev", "DevOps"],
+  code: ["Swift", "Javascript", "Dart", "C++", "Python", "Java"],
+  askMeAbout: ["App Dev", "Web Dev", "FullStack Dev", "DevOps"],
   technologies: {
     mobileApp: ["iOS App", "Android App", "React Native", "Flutter"],
     frontEnd: {
@@ -74,5 +74,6 @@ Android Studio  2 hrs 28 mins       ███░░░░░░░░░░░�
 
 💻 Operating Systems:
 MacOS   17 hrs 5 mins       ██████████████████████  100.0%
-
+Linux   12 hrs 0 mins       ████████████░░░░░░░░░░  80.0%
+Windows 5 hrs 0 mins        ███░░░░░░░░░░░░░░░░░░░  40.0%
 ```

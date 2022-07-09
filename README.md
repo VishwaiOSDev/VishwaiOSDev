@@ -1,6 +1,6 @@
 <h2>Hi, i am Vishweshwaran.R <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Native iOS Developer, Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Native iOS Developer, Software Engineer
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/vishwaiosdev?label=follow&style=social)

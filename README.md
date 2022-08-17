@@ -1,79 +1,33 @@
-<h2>Hi, i am Vishweshwaran.R <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Native iOS Developer, Software Engineer
-</em></p>
+# Hi, Vishweshwaran 👋
+![](https://komarev.com/ghpvc/?username=VishwaiOSDev)
+![GitHub followers](https://img.shields.io/github/followers/VishwaiOSDev?label=Follow&style=social)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/vishwaiosdev?label=follow&style=social)
-![GitHub followers](https://img.shields.io/github/followers/vishwaiosdev?label=Follow&style=social)
+I'm Software Developer, who loves building mobile applications. Dynamic and passionate individual with extensive experience in application development lifecycle from concept through delivery of next-generation applications and customisable solutions in an Agile Environment.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-```javascript
-const techStack = {
-  pronouns: "He" | "Him",
-  code: ["Swift", "Javascript", "Dart", "C++", "Python", "Java"],
-  askMeAbout: ["App Dev", "Web Dev", "FullStack Dev", "DevOps"],
-  technologies: {
-    mobileApp: ["iOS App", "Android App", "React Native", "Flutter"],
-    frontEnd: {
-      js: ["Vue", "React"],
-      css: ["materialize", "vuetify", "bootstrap"],
-    },
-    backEnd: {
-      js: ["node", "express"],
-      python: ["flask"],
-    },
-    devOps: ["AWS", "Docker🐳", "Caddy", "Nginx"],
-    databases: ["mongo", "MySql", "sqlite", "Realm"],
-    misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php"],
-  },
-  architecture: [
-    "Serverless Architecture",
-    "Progressive web applications",
-    "Single page applications",
-    "Model View ViewModel",
-    "Model View Controller",
-    "BloC Architecture",
-  ],
-  funFact:
-    "There are two ways to write error-free programs; only the third one works",
-};
-```
+## 🚀 Tech Stack
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+Here are a few things I've picked up along my learning journey.
 
----
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white) ![Swift](https://img.shields.io/badge/-SwiftUI-blue?style=for-the-badge&logo=Swift&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white) 
 
-<!--START_SECTION:waka-->
+![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)  ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?&style=for-the-badge&logo=github&logoColor=white) ![BitBucket](https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white)
+ 
+ ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white)  ![VSCode](https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+ 
+ ![Bitrise](https://img.shields.io/badge/-Bitrise-683D87?&style=for-the-badge&logo=Bitrise&logoColor=white)  ![GithubActions](https://img.shields.io/badge/-GithubActions-2088FF?&style=for-the-badge&logo=GithubActions&logoColor=white)
+ 
+ ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?&style=for-the-badge&logo=Firebase&logoColor=white)  ![GoogleAnalytics](https://img.shields.io/badge/-GoogleAnalytics-E37400?&style=for-the-badge&logo=GoogleAnalytics&logoColor=white)
 
-**Daily Life 🐤**
+ ![Sentry](https://img.shields.io/badge/-Sentry-362D59?&style=for-the-badge&logo=Sentry&logoColor=white) ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?&style=for-the-badge&logo=sonarqube&logoColor=white)
 
-```text
-🌞 Morning      95 commits          ███████░░░░░░░░░░░░░░░░░░░░   30.55%
-🌆 Daytime      78 commits          ██████░░░░░░░░░░░░░░░░░░░░░   25.08%
-🌃 Evening      112 commits         █████████░░░░░░░░░░░░░░░░░░   36.01%
-🌙 Night        26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░░░   8.36%
-```
+ ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-000?&style=for-the-badge&logo=Jira-Software&logoColor=0052CC) 
+  
 
-📊 **This week I spent my time on**
+ ## 📈 Stats 
 
-```text
-⌚︎ Timezone: Asia/TamilNadu/Chennai
+<img src="https://github-readme-stats.vercel.app/api?username=VishwaiOSDev&count_private=true&show_icons=true" />
+ 
 
-💬 Languages:
-Swift           16 hrs 40 mins      ███████████████████████░░░░   95.0%
-JavaScript      6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░░░   39.01%
-Dart            3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░░░   25.04%
-Python          2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░░░   17.23%
-C++             1 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░░░   10.21%
-
-🔥 Editors:
-Xcode           16 hrs 12 mins      ███████████████████████░░░░   95.71%
-VSCode          9 hrs 32 mins       ██████████████░░░░░░░░░░░░░   55.81%
-Android Studio  2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░░░   14.49%
-
-💻 Operating Systems:
-MacOS           17 hrs 5 mins       ███████████████████████████   100.0%
-Linux           12 hrs 0 mins       ████████████░░░░░░░░░░░░░░░   80.0%
-Windows         5 hrs 0 mins        ███░░░░░░░░░░░░░░░░░░░░░░░░   40.0%
-```
+## ❤️ Get in touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vishweshwaran/](https://www.linkedin.com/in/vishweshwaran)) [![Github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://github.com/VishwaiOSDev) [ ![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025.svg?&style=for-the-badge&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/11320579/vishweshwaran)

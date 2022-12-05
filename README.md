@@ -1,7 +1,6 @@
-![profile-banner](https://user-images.githubusercontent.com/71421776/205430495-ea643db2-77d8-474e-8829-5f105569e5d0.png)
-
-[![](https://visitcount.itsvg.in/api?id=vishwaiosdev&icon=3&color=8)](https://visitcount.itsvg.in)
+![apple-developer](https://user-images.githubusercontent.com/71421776/205568386-a9978052-ac07-4123-83bd-2d830a0bc81b.png)
 # 💫 About Me:
+[![](https://visitcount.itsvg.in/api?id=vishwaiosdev&icon=3&color=8)](https://visitcount.itsvg.in)
 
 I'm Software Developer, who loves building mobile applications. Dynamic and passionate individual with extensive experience in application development lifecycle from concept through delivery of next-generation applications and customisable solutions in an Agile Environment.<br><br>🔭 I’m currently working on SwiftUI<br>👯 I’m looking to collaborate on Swift, SwiftUI<br>🌱 I’m currently learning Clean Architecture<br>💬 Ask me about iOS
 

@@ -2,7 +2,7 @@
 # 💫 About Me:
 [![](https://visitcount.itsvg.in/api?id=vishwaiosdev&icon=3&color=8)](https://visitcount.itsvg.in)
 
-I'm Software Engineer, who loves building mobile applications. Dynamic and passionate individual with extensive experience in application development lifecycle from concept through delivery of next-generation applications and customisable solutions in an Agile Environment.<br><br>🔭 I’m currently working on SwiftUI and Vapor<br>👯 I’m looking to collaborate on Swift, SwiftUI<br>🌱 I’m currently learning Clean Architecture<br>💬 Ask me about iOS, Machine Learning
+I'm a Software Engineer who enjoys creating mobile applications. Dynamic and passionate individual with extensive experience in the application development lifecycle from concept to delivery of next-generation applications and customisable solutions in an Agile environment.<br><br>🔭 I’m currently working on SwiftUI and Vapor<br>👯 I’m looking to collaborate on Swift, SwiftUI<br>🌱 I’m currently learning Clean Architecture<br>💬 Ask me about iOS, Machine Learning
 
 # 💻 Tech Stack:
 

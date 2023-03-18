@@ -2,7 +2,7 @@
 # 💫 About Me:
 [![](https://visitcount.itsvg.in/api?id=vishwaiosdev&icon=3&color=8)](https://visitcount.itsvg.in)
 
-I'm a Software Engineer who enjoys creating mobile applications. Dynamic and passionate individual with extensive experience in the application development lifecycle from concept to delivery of next-generation applications and customisable solutions in an Agile environment.
+I'm a Software Engineer who enjoys creating mobile applications. Dynamic and passionate individual with extensive experience in the mobile application development lifecycle from concept to delivery of next-generation applications and customisable solutions in an Agile environment.
 
 # 💻 Tech Stack:
 

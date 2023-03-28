@@ -2,7 +2,7 @@
 # 💫 About Me:
 [![](https://visitcount.itsvg.in/api?id=vishwaiosdev&icon=3&color=8)](https://visitcount.itsvg.in)
 
-Experienced Mobile App developer with a passion for creating next-gen solutions in an Agile environment..
+Experienced Mobile App developer with a passion for creating next-gen solutions in an Agile environment.
 
 # 💻 Tech Stack:
 

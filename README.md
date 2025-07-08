@@ -1,7 +1,5 @@
 ![apple-developer](https://user-images.githubusercontent.com/71421776/205568386-a9978052-ac07-4123-83bd-2d830a0bc81b.png)
 # 💫 About Me:
-[![](https://visitcount.itsvg.in/api?id=vishwaiosdev&icon=3&color=8)](https://visitcount.itsvg.in)
-
 Experienced mobile app developer passionate about creating next-gen solutions in Agile environment. Expert in programming languages, frameworks, and app design. Thrives on turning complex ideas into innovative, effective and functional mobile apps.
 
 # 💻 Tech Stack:
